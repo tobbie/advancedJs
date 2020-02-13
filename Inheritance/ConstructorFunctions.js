@@ -1,5 +1,4 @@
-
-
+//Function constructors
 function Elf(name, weapon){
     this.name =  name;
     this .weapon = weapon;
